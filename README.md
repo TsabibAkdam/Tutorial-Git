@@ -44,3 +44,7 @@ LTI Assignment
 ### Disa
 To-Do List Applicatio
 [Click Here!](https://github.com/Disa-Fajar/Tutorial-Git/tree/main/Disa)
+
+### Tsabib Akdam
+Self Profile Application
+[Click Here!](Akdam2/)
